@@ -1,0 +1,5 @@
+.DS_Store
+ImagesFolder/
+AnnotationsFolder/
+.ipynb_checkpoints
+.git
