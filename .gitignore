@@ -1,5 +1,7 @@
 .DS_Store
 ImagesFolder/
 AnnotationsFolder/
+trained_model/
+pspnet101_cityscapes.h5
 .ipynb_checkpoints
 .git
