@@ -3,5 +3,7 @@ ImagesFolder/
 AnnotationsFolder/
 trained_model/
 pspnet101_cityscapes.h5
+trained_model.hdf5
+trained_model2.hdf5
 .ipynb_checkpoints
 .git
