@@ -8,3 +8,5 @@ trained_model2.hdf5
 .ipynb_checkpoints
 .git
 weights.hdf5
+imageData/
+imageData_annotated/
