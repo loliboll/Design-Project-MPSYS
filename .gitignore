@@ -10,3 +10,4 @@ trained_model2.hdf5
 weights.hdf5
 imageData/
 imageData_annotated/
+norm_ImagesFolder
